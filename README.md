@@ -1,56 +1,43 @@
-<!-- Stylish GitHub Profile README for LastPerson07 -->
+# 👋 Hi, I’m Dhanpal Sharma  
 
-<h1 align="center">👋 Hi, I'm <span style="color:#58a6ff">Dhanpal Sharma</span></h1>
-
-<p align="center">
-  🎓 <b>B.Tech CSE Student</b> | 💻 <b>Python Developer</b> | 🚀 <b>Future Software Engineer</b>
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=00FFAA&lines=Developer;CSE+Student;Open+Source+Enthusiast;Always+Learning)](https://git.io/typing-svg)
 
 ---
 
-## 🚀 About Me
-- 🎓 First-year **Computer Science Student**  
-- 💡 Exploring **Python, GitHub, Bots, and App Development**  
-- ⚡ Passionate about building **automation tools & cool apps**  
-- 📧 Reach me: **[sharmadhanpal950@gmail.com](mailto:sharmadhanpal950@gmail.com)**  
+## 🚀 About Me  
+- 🎓 B.Tech CSE Student @ RGPV  
+- 💻 Love building bots, apps & automation  
+- 🌱 Currently learning advanced Python + Full-Stack  
+- 🎯 Goal: To grow as a developer and contribute to open source  
 
 ---
 
 ## 🛠 Tech Stack  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,git,github,linux,html,css,js,java,vscode" />
-</p>
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+![Telegram Bot](https://img.shields.io/badge/-Telegram%20Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)  
 
 ---
 
-## 📊 GitHub Stats & Graphs  
+## 📊 GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LastPerson07&show_icons=true&theme=tokyonight" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LastPerson07&layout=compact&theme=tokyonight" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=LastPerson07&theme=tokyonight&hide_border=true" height="180" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=LastPerson07&show_icons=true&theme=tokyonight)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=LastPerson07&theme=tokyonight)  
+![](https://github-readme-activity-graph.vercel.app/graph?username=LastPerson07&theme=react-dark)  
 
 ---
 
-## 📈 Contribution Graph (Cool Circle)  
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LastPerson07&theme=react-dark&bg_color=0d1117&hide_border=true&line=58a6ff&point=f28b82&area=true" />
-</p>
+## 🏆 GitHub Trophies  
+![](https://github-profile-trophy.vercel.app/?username=LastPerson07&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
-## 🔗 Connect With Me  
-
-<p align="center">
-  <a href="mailto:sharmadhanpal950@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/LastPerson07"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+## 🐍 Contribution Snake  
+![snake gif](https://github.com/LastPerson07/LastPerson07/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
-<p align="center">⚡ <i>"Code. Learn. Build. Repeat."</i> ⚡</p>
+## ✨ Quote of the Day  
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)

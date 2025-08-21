@@ -2,6 +2,8 @@
 
 <h1 align="center">👋 Hey, I'm <span style="color:#58a6ff">Dhanpal Sharma</span></h1>
 
+<p align="center"> 🎓 <b>B.Tech CSE Student</b> | 💻 <b>Python Developer</b> | 🚀 <b>Bot Engineer</b> </p>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00FFAA&center=true&vCenter=true&width=650&lines=Python+Developer;Bot+Engineer;Cloud+Explorer;Open+Source+Enthusiast" alt="typing animation" />
 </p>

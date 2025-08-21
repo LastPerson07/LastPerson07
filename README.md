@@ -8,6 +8,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00FFAA&center=true&vCenter=true&width=650&lines=Python+Developer;Bot+Engineer;Cloud+Explorer;Open+Source+Enthusiast" alt="typing animation" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=LastPerson07&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
 ---
 
 ##  About Me  

@@ -1,61 +1,60 @@
-<!-- Professional GitHub Profile README for LastPerson07 -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&section=header&text=Dhanpal%20Sharma&fontSize=50&animation=twinkling" width="100%" />
 
-<h1 align="center">👋 Hey, I'm <span style="color:#58a6ff">Dhanpal Sharma</span></h1>
+  <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFAA&center=true&vCenter=true&width=500&lines=Python+Architect;Bot+Developer;Cloud+Enthusiast;The+Updated+Guys+😎" alt="Typing Animation" />
+  </p>
+</div>
 
-<p align="center"> 🎓 <b>B.Tech CSE Student</b> | 💻 <b>Python Developer</b> | 🚀 <b>Bot Engineer</b> </p>
+### 🪐 Overview
+I’m a **B.Tech CSE Student** specializing in high-performance **Python bots** and automated systems. I focus on writing clean, scalable code and exploring the intersection of **DevOps** and **Cloud Infrastructure**.
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00FFAA&center=true&vCenter=true&width=650&lines=Python+Developer;Bot+Engineer;Cloud+Explorer;Open+Source+Enthusiast" alt="typing animation" />
+---
+
+### 🐍 Contribution Journey
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LastPerson07/LastPerson07/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LastPerson07/LastPerson07/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LastPerson07/LastPerson07/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
+### 🛠️ Tech Stack & Ecosystem
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,linux,docker,githubactions,git,vscode,mongodb,postgres,replit,aws,java,js" />
+</div>
+
+---
+
+### 📊 Vital Statistics
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=LastPerson07&show_icons=true&theme=tokyonight&hide_border=true" height="180px" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LastPerson07&layout=compact&theme=tokyonight&hide_border=true" height="180px" />
+      </td>
+    </tr>
+  </table>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LastPerson07&theme=tokyonight&hide_border=true" width="100%" />
+</div>
+
+---
+
+### 🔭 Current Mission
+- 🤖 **Optimizing:** Advanced Telegram automation frameworks.
+- ☁️ **Learning:** Serverless architecture and Kubernetes clusters.
+- ⚡ **Collaborating:** Part of **THE UPDATED GUYS 😎** engineering team.
+
+---
+
+### 📬 Connect with me
+<p align="left">
+<a href="mailto:sharmadhanpal950@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30px"/></a>
+<a href="https://github.com/LastPerson07"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="30px"/></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=LastPerson07&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
----
-
-##  About Me  
--  Second-year **Computer Science Student**  
--  Skilled in **Python, GitHub, and App Development**  
--  Diving into **Cloud, DevOps, and Automation Tools**  
--  Passionate about **Building Bots & Tools** that solve real problems  
--  Reach me: **[sharmadhanpal950@gmail.com](mailto:sharmadhanpal950@gmail.com)**  
-
----
-
-##  Tech Stack  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,git,github,linux,html,css,js,java,vscode" />
-</p>
-
----
-
-##  GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LastPerson07&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LastPerson07&layout=compact&theme=tokyonight&hide_border=true" height="180" />
-</p>
-
----
-
-##  Current Focus  
--  Strengthening **Python skills** with practical automation projects  
--  Exploring core concepts in **Linux, Cloud, and DevOps**  
--  Building **Telegram Bots & Desktop Apps**  
--  Maintaining and polishing my existing GitHub projects  
-
----
-
-##  Connect With Me  
-<p align="center">
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sharmadhanpal950@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://github.com/LastPerson07" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-
----
-
-<p align="center">⚡ <i>"Code. Automate. Innovate. Repeat."</i> ⚡</p>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%" />

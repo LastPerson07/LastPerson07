@@ -48,14 +48,6 @@ B.Tech Computer Science student passionate about building scalable automation sy
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=LastPerson07&theme=tokyonight&no-frame=true&margin-w=15&column=-1" alt="Trophies" />
 </p>
-
----
-
-### 🌟 Featured Project
-
-> **Ultra Forward Bot** – A robust, professional-grade Telegram message forwarding and management system built with Python.  
-> [View Repository](https://github.com/Dhanpal-Sharma/Ultra-Forward-Bot)
-
 ---
 
 <p align="center">
